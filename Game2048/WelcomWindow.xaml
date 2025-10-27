@@ -1,0 +1,17 @@
+﻿<Window x:Class="Game2048.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Game2048"
+        mc:Ignorable="d"
+        Background="Gray"
+        Title="2048" Height="500" Width="500">
+    <Grid>
+        <StackPanel VerticalAlignment="Center" Orientation="Vertical" Margin=" 20" Cursor="">
+            <Label Style="{StaticResource MenuLabelStyle}" Content="2048"/>
+            <Button Style="{StaticResource MenuBtnStyle}" Content="Play" Click="StartGame_Click"/>
+            <Button Style="{StaticResource MenuBtnStyle}" Content="Quit" Click="Exit_Click" Cursor="Hand"/>
+        </StackPanel>
+    </Grid>
+</Window>
