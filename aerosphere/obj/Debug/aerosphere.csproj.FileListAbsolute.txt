@@ -1,0 +1,48 @@
+C:\Users\artem\source\repos\aerosphere\aerosphere\bin\Debug\aerosphere.exe.config
+C:\Users\artem\source\repos\aerosphere\aerosphere\bin\Debug\aerosphere.exe
+C:\Users\artem\source\repos\aerosphere\aerosphere\bin\Debug\aerosphere.pdb
+C:\Users\artem\source\repos\aerosphere\aerosphere\obj\Debug\aerosphere.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\aerosphere\aerosphere\obj\Debug\aerosphere.Рейсы.resources
+C:\Users\artem\source\repos\aerosphere\aerosphere\obj\Debug\aerosphere.Properties.Resources.resources
+C:\Users\artem\source\repos\aerosphere\aerosphere\obj\Debug\aerosphere.csproj.GenerateResource.cache
+C:\Users\artem\source\repos\aerosphere\aerosphere\obj\Debug\aerosphere.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\aerosphere\aerosphere\obj\Debug\aerosphere.exe
+C:\Users\artem\source\repos\aerosphere\aerosphere\obj\Debug\aerosphere.pdb
+C:\Users\artem\source\repos\aerosphere\aerosphere\obj\Debug\aerosphere.Бронирование.resources
+C:\Users\artem\source\repos\aerosphere\aerosphere\obj\Debug\aerosphere.Авторизация.resources
+C:\Users\artem\source\repos\aerosphere\aerosphere\obj\Debug\aerosphere.Регистрация.resources
+C:\Users\artem\source\repos\aerosphere\aerosphere\obj\Debug\aerosphere.Аэропорты.resources
+C:\Users\artem\source\repos\aerosphere\aerosphere\obj\Debug\aerosphere.Пользователи.resources
+C:\Users\artem\source\repos\aerosphere\aerosphere\obj\Debug\aerosphere.Самолеты.resources
+E:\Учеба\трзбд лабы\аэросфера222\aerosphere\aerosphere\bin\Debug\aerosphere.exe.config
+E:\Учеба\трзбд лабы\аэросфера222\aerosphere\aerosphere\bin\Debug\aerosphere.exe
+E:\Учеба\трзбд лабы\аэросфера222\aerosphere\aerosphere\bin\Debug\aerosphere.pdb
+E:\Учеба\трзбд лабы\аэросфера222\aerosphere\aerosphere\obj\Debug\aerosphere.csproj.AssemblyReference.cache
+E:\Учеба\трзбд лабы\аэросфера222\aerosphere\aerosphere\obj\Debug\aerosphere.Авторизация.resources
+E:\Учеба\трзбд лабы\аэросфера222\aerosphere\aerosphere\obj\Debug\aerosphere.Аэропорты.resources
+E:\Учеба\трзбд лабы\аэросфера222\aerosphere\aerosphere\obj\Debug\aerosphere.Бронирование.resources
+E:\Учеба\трзбд лабы\аэросфера222\aerosphere\aerosphere\obj\Debug\aerosphere.Пользователи.resources
+E:\Учеба\трзбд лабы\аэросфера222\aerosphere\aerosphere\obj\Debug\aerosphere.Регистрация.resources
+E:\Учеба\трзбд лабы\аэросфера222\aerosphere\aerosphere\obj\Debug\aerosphere.Рейсы.resources
+E:\Учеба\трзбд лабы\аэросфера222\aerosphere\aerosphere\obj\Debug\aerosphere.Properties.Resources.resources
+E:\Учеба\трзбд лабы\аэросфера222\aerosphere\aerosphere\obj\Debug\aerosphere.Самолеты.resources
+E:\Учеба\трзбд лабы\аэросфера222\aerosphere\aerosphere\obj\Debug\aerosphere.csproj.GenerateResource.cache
+E:\Учеба\трзбд лабы\аэросфера222\aerosphere\aerosphere\obj\Debug\aerosphere.csproj.CoreCompileInputs.cache
+E:\Учеба\трзбд лабы\аэросфера222\aerosphere\aerosphere\obj\Debug\aerosphere.exe
+E:\Учеба\трзбд лабы\аэросфера222\aerosphere\aerosphere\obj\Debug\aerosphere.pdb
+D:\Учеба\трзбд лабы\аэросфера222\aerosphere\aerosphere\bin\Debug\aerosphere.exe.config
+D:\Учеба\трзбд лабы\аэросфера222\aerosphere\aerosphere\bin\Debug\aerosphere.exe
+D:\Учеба\трзбд лабы\аэросфера222\aerosphere\aerosphere\bin\Debug\aerosphere.pdb
+D:\Учеба\трзбд лабы\аэросфера222\aerosphere\aerosphere\obj\Debug\aerosphere.csproj.AssemblyReference.cache
+D:\Учеба\трзбд лабы\аэросфера222\aerosphere\aerosphere\obj\Debug\aerosphere.Авторизация.resources
+D:\Учеба\трзбд лабы\аэросфера222\aerosphere\aerosphere\obj\Debug\aerosphere.Аэропорты.resources
+D:\Учеба\трзбд лабы\аэросфера222\aerosphere\aerosphere\obj\Debug\aerosphere.Бронирование.resources
+D:\Учеба\трзбд лабы\аэросфера222\aerosphere\aerosphere\obj\Debug\aerosphere.Пользователи.resources
+D:\Учеба\трзбд лабы\аэросфера222\aerosphere\aerosphere\obj\Debug\aerosphere.Регистрация.resources
+D:\Учеба\трзбд лабы\аэросфера222\aerosphere\aerosphere\obj\Debug\aerosphere.Рейсы.resources
+D:\Учеба\трзбд лабы\аэросфера222\aerosphere\aerosphere\obj\Debug\aerosphere.Properties.Resources.resources
+D:\Учеба\трзбд лабы\аэросфера222\aerosphere\aerosphere\obj\Debug\aerosphere.Самолеты.resources
+D:\Учеба\трзбд лабы\аэросфера222\aerosphere\aerosphere\obj\Debug\aerosphere.csproj.GenerateResource.cache
+D:\Учеба\трзбд лабы\аэросфера222\aerosphere\aerosphere\obj\Debug\aerosphere.csproj.CoreCompileInputs.cache
+D:\Учеба\трзбд лабы\аэросфера222\aerosphere\aerosphere\obj\Debug\aerosphere.exe
+D:\Учеба\трзбд лабы\аэросфера222\aerosphere\aerosphere\obj\Debug\aerosphere.pdb

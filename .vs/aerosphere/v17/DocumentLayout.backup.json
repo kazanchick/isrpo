@@ -1,0 +1,398 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0431\u0440\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|solutionrelative:aerosphere\\\u0431\u0440\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0431\u0440\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|solutionrelative:aerosphere\\\u0431\u0440\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0440\u0435\u0439\u0441\u044B.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|solutionrelative:aerosphere\\\u0440\u0435\u0439\u0441\u044B.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0430\u0432\u0442\u043E\u0440\u0438\u0437\u0430\u0446\u0438\u044F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|solutionrelative:aerosphere\\\u0430\u0432\u0442\u043E\u0440\u0438\u0437\u0430\u0446\u0438\u044F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u0438.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|solutionrelative:aerosphere\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u0438.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|solutionrelative:aerosphere\\\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0441\u0430\u043C\u043E\u043B\u0435\u0442\u044B.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|solutionrelative:aerosphere\\\u0441\u0430\u043C\u043E\u043B\u0435\u0442\u044B.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0430\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u044B.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|solutionrelative:aerosphere\\\u0430\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u044B.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0440\u0435\u0439\u0441\u044B.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|solutionrelative:aerosphere\\\u0440\u0435\u0439\u0441\u044B.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0430\u0432\u0442\u043E\u0440\u0438\u0437\u0430\u0446\u0438\u044F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|solutionrelative:aerosphere\\\u0430\u0432\u0442\u043E\u0440\u0438\u0437\u0430\u0446\u0438\u044F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0430\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u044B.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|solutionrelative:aerosphere\\\u0430\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u044B.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0441\u0430\u043C\u043E\u043B\u0435\u0442\u044B.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|solutionrelative:aerosphere\\\u0441\u0430\u043C\u043E\u043B\u0435\u0442\u044B.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0430\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u044B.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|solutionrelative:aerosphere\\\u0430\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u044B.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|solutionrelative:aerosphere\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0431\u0440\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|solutionrelative:aerosphere\\\u0431\u0440\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u0438.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|solutionrelative:aerosphere\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u0438.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|solutionrelative:aerosphere\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|solutionrelative:aerosphere\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|solutionrelative:aerosphere\\\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|solutionrelative:aerosphere\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0441\u0430\u043C\u043E\u043B\u0435\u0442\u044B.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|solutionrelative:aerosphere\\\u0441\u0430\u043C\u043E\u043B\u0435\u0442\u044B.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0440\u0435\u0439\u0441\u044B.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B12C014F-CA2E-4191-9928-9DB8A0744C84}|aerosphere\\aerosphere.csproj|solutionrelative:aerosphere\\\u0440\u0435\u0439\u0441\u044B.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u0411\u0440\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0411\u0440\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435.cs",
+              "RelativeDocumentMoniker": "aerosphere\\\u0411\u0440\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0411\u0440\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "aerosphere\\\u0411\u0440\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:11:54.135Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u0420\u0435\u0439\u0441\u044B.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0420\u0435\u0439\u0441\u044B.cs",
+              "RelativeDocumentMoniker": "aerosphere\\\u0420\u0435\u0439\u0441\u044B.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0420\u0435\u0439\u0441\u044B.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "aerosphere\\\u0420\u0435\u0439\u0441\u044B.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T14:51:53.896Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\u0410\u0432\u0442\u043E\u0440\u0438\u0437\u0430\u0446\u0438\u044F.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0410\u0432\u0442\u043E\u0440\u0438\u0437\u0430\u0446\u0438\u044F.cs",
+              "RelativeDocumentMoniker": "aerosphere\\\u0410\u0432\u0442\u043E\u0440\u0438\u0437\u0430\u0446\u0438\u044F.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0410\u0432\u0442\u043E\u0440\u0438\u0437\u0430\u0446\u0438\u044F.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "aerosphere\\\u0410\u0432\u0442\u043E\u0440\u0438\u0437\u0430\u0446\u0438\u044F.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:09:36.849Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u044B.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u044B.cs",
+              "RelativeDocumentMoniker": "aerosphere\\\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u044B.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u044B.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "aerosphere\\\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u044B.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:25:48.112Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "\u0421\u0430\u043C\u043E\u043B\u0435\u0442\u044B.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0421\u0430\u043C\u043E\u043B\u0435\u0442\u044B.cs",
+              "RelativeDocumentMoniker": "aerosphere\\\u0421\u0430\u043C\u043E\u043B\u0435\u0442\u044B.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0421\u0430\u043C\u043E\u043B\u0435\u0442\u044B.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "aerosphere\\\u0421\u0430\u043C\u043E\u043B\u0435\u0442\u044B.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T16:20:52.795Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u0438.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u0438.cs",
+              "RelativeDocumentMoniker": "aerosphere\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u0438.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u0438.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "aerosphere\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u0438.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:48:02.891Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F.cs",
+              "RelativeDocumentMoniker": "aerosphere\\\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "aerosphere\\\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:50:48.333Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u0411\u0440\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0411\u0440\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435.cs",
+              "RelativeDocumentMoniker": "aerosphere\\\u0411\u0440\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0411\u0440\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435.cs",
+              "RelativeToolTip": "aerosphere\\\u0411\u0440\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAswMMAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:48:33.625Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u0438.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u0438.cs",
+              "RelativeDocumentMoniker": "aerosphere\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u0438.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u0438.cs",
+              "RelativeToolTip": "aerosphere\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u0438.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:52:23.832Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "\u0420\u0435\u0439\u0441\u044B.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0420\u0435\u0439\u0441\u044B.cs",
+              "RelativeDocumentMoniker": "aerosphere\\\u0420\u0435\u0439\u0441\u044B.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0420\u0435\u0439\u0441\u044B.cs",
+              "RelativeToolTip": "aerosphere\\\u0420\u0435\u0439\u0441\u044B.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T14:42:01.346Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "\u0410\u0432\u0442\u043E\u0440\u0438\u0437\u0430\u0446\u0438\u044F.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0410\u0432\u0442\u043E\u0440\u0438\u0437\u0430\u0446\u0438\u044F.cs",
+              "RelativeDocumentMoniker": "aerosphere\\\u0410\u0432\u0442\u043E\u0440\u0438\u0437\u0430\u0446\u0438\u044F.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0410\u0432\u0442\u043E\u0440\u0438\u0437\u0430\u0446\u0438\u044F.cs",
+              "RelativeToolTip": "aerosphere\\\u0410\u0432\u0442\u043E\u0440\u0438\u0437\u0430\u0446\u0438\u044F.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:12:30.488Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "\u0421\u0430\u043C\u043E\u043B\u0435\u0442\u044B.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0421\u0430\u043C\u043E\u043B\u0435\u0442\u044B.cs",
+              "RelativeDocumentMoniker": "aerosphere\\\u0421\u0430\u043C\u043E\u043B\u0435\u0442\u044B.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0421\u0430\u043C\u043E\u043B\u0435\u0442\u044B.cs",
+              "RelativeToolTip": "aerosphere\\\u0421\u0430\u043C\u043E\u043B\u0435\u0442\u044B.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowCgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:53:58.774Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u044B.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u044B.cs",
+              "RelativeDocumentMoniker": "aerosphere\\\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u044B.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u044B.cs",
+              "RelativeToolTip": "aerosphere\\\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u044B.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowB4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:26:22.582Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Session.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\Session.cs",
+              "RelativeDocumentMoniker": "aerosphere\\Session.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\Session.cs",
+              "RelativeToolTip": "aerosphere\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T17:23:33.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\Program.cs",
+              "RelativeDocumentMoniker": "aerosphere\\Program.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\Program.cs",
+              "RelativeToolTip": "aerosphere\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T17:23:31.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\App.config",
+              "RelativeDocumentMoniker": "aerosphere\\App.config",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\App.config",
+              "RelativeToolTip": "aerosphere\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-16T10:39:56.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "\u0420\u0435\u0439\u0441\u044B.Designer.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0420\u0435\u0439\u0441\u044B.Designer.cs",
+              "RelativeDocumentMoniker": "aerosphere\\\u0420\u0435\u0439\u0441\u044B.Designer.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0420\u0435\u0439\u0441\u044B.Designer.cs",
+              "RelativeToolTip": "aerosphere\\\u0420\u0435\u0439\u0441\u044B.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T09:29:33.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "\u0411\u0440\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435.Designer.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0411\u0440\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435.Designer.cs",
+              "RelativeDocumentMoniker": "aerosphere\\\u0411\u0440\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435.Designer.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0411\u0440\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435.Designer.cs",
+              "RelativeToolTip": "aerosphere\\\u0411\u0440\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T07:08:47.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\DataBase.cs",
+              "RelativeDocumentMoniker": "aerosphere\\DataBase.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\DataBase.cs",
+              "RelativeToolTip": "aerosphere\\DataBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T18:02:35.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u044B.Designer.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u044B.Designer.cs",
+              "RelativeDocumentMoniker": "aerosphere\\\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u044B.Designer.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u044B.Designer.cs",
+              "RelativeToolTip": "aerosphere\\\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u044B.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T16:22:57.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "\u0421\u0430\u043C\u043E\u043B\u0435\u0442\u044B.Designer.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0421\u0430\u043C\u043E\u043B\u0435\u0442\u044B.Designer.cs",
+              "RelativeDocumentMoniker": "aerosphere\\\u0421\u0430\u043C\u043E\u043B\u0435\u0442\u044B.Designer.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0421\u0430\u043C\u043E\u043B\u0435\u0442\u044B.Designer.cs",
+              "RelativeToolTip": "aerosphere\\\u0421\u0430\u043C\u043E\u043B\u0435\u0442\u044B.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T16:21:00.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F.cs",
+              "RelativeDocumentMoniker": "aerosphere\\\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0442\u0440\u0437\u0431\u0434 \u043B\u0430\u0431\u044B\\\u0430\u044D\u0440\u043E\u0441\u0444\u0435\u0440\u0430222\\aerosphere\\aerosphere\\\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F.cs",
+              "RelativeToolTip": "aerosphere\\\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:55:47.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
